@@ -6,6 +6,7 @@ public class HelloGitHub {
 		System.out.println("1.프로젝트생성");
 		System.out.println("2.내용수정1");
 		System.out.println("3.집에서 작업");
+		System.out.println("4.추가작업");
 
 
 	}
